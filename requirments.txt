@@ -1,0 +1,20 @@
+# Core data + analysis
+numpy
+pandas
+scikit-learn
+matplotlib
+network
+joblib
+
+# Parquet support used in Phase 2/3/4/5 (pd.read_parquet / to_parquet)
+pyarrow
+
+# Dataset download from Hugging Face Hub (Phase 1)
+huggingface-hub
+
+# Deep learning (Phase 3/4)
+torch
+
+# Notebook runtime (recommended)
+ipykernel
+jupyter

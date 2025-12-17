@@ -1,0 +1,4 @@
+log_source,benign,exfiltration,exploit,lateral_movement,privilege_escalation,recon
+FIREWALL,20758,1538,0,2487,0,0
+IDS,7098,738,2294,0,0,2370
+SYSTEM,61327,0,0,15,1375,0
